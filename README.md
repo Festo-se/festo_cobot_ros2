@@ -6,5 +6,5 @@ This folder contains the URDF and assets of the cobot.
 ## FESTO Cobot USD
 This folder contains the actual USD-Version of the Festo Cobot imported and created with Nvidia Omniverse Isaac 2022.1.0
 
-# Licence
+## Licence
 All packages of festo_cobot_ros2 are licensed under the Apache 2.0 license.
